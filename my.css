@@ -18,8 +18,18 @@ main{
     border: 1px solid red;
 }
 
+p{
+    padding-left: 2px;
+}
+
 nav{
     display: flex;
     justify-content: center;
-    align-items: center;
+}
+li{
+    list-style-type: none;
+    padding: 4px;
+}
+a{
+    text-decoration-line: none;
 }

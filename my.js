@@ -1,2 +1,2 @@
 'use strict';
-(alert('Hello!!!'.toUpperCase()))();
+(alert('Hello!!!'.toUpperCase()));
